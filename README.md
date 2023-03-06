@@ -12,8 +12,7 @@
 <h3> 🛠 &nbsp;Tech Stack (advanced)</h3>
 
 - &nbsp;![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- &nbsp;![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  
 <h3> 🛠 &nbsp;Tech Stack (intermediate)</h3>
 
