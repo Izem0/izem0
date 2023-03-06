@@ -13,7 +13,7 @@
 <h4> Advanced </h4>
 
 - &nbsp;![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- &nbsp;![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- &nbsp;![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgresql)
  
 
 <h4> Intermediate </h4>
