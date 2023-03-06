@@ -9,20 +9,26 @@
 - 📚 &nbsp; Currently learning more about frontend development.
 - 🌱 &nbsp; Code, Trading & Boxing as hobbies.
 
-<h3> 🛠 &nbsp;Tech Stack (advanced)</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<h4> Advanced </h4>
 
 - &nbsp;![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - &nbsp;![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  
-<h3> 🛠 &nbsp;Tech Stack (intermediate)</h3>
+
+<h4> Intermediate </h4>
 
 -  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 -  ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=snowflake)
 -  ![PowerBi](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
--  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
--  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
--  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
+
+<h4> Beginner </h4>
+
+- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
