@@ -6,7 +6,6 @@
 - 🤔 &nbsp; Love to code, automate stuff & manipulate data.
 - 🎓 &nbsp; Came from Neuroscience and switch to code a few years ago.
 - 💼 &nbsp; Working as a Data Engineer in a IT Services company.
-- 📚 &nbsp; Currently learning more about frontend development.
 - 🌱 &nbsp; Code, Trading & Boxing as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
